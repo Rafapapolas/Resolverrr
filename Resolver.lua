@@ -59,7 +59,7 @@ getgenv().Settings = {
         FovTransparency = 1,
         FovThickness = 1,
         FovColor = Color3.fromRGB(255, 185, 0),
-        FovRadius = 1600
+        FovRadius = 360
     },
     Spoofer = {
         MemorySpoofer = true,
