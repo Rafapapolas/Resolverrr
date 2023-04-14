@@ -767,7 +767,7 @@ PingLabel:GetPropertyChangedSignal("Text"):Connect(
             color17.BackgroundColor3 = Settings.Spoofer.PingTabColor
             color18.BackgroundColor3 = Settings.Spoofer.PingTabColor
             color19.BackgroundColor3 = Settings.Spoofer.PingTabColor
-            if game.PlaceId == 2788229376 then
+            if game.PlaceId == 9951231846 then
                 game:GetService("ReplicatedStorage").MainEvent:FireServer("GetPing", textrandom)
             end
         end
